@@ -1,4 +1,4 @@
-## Daftar Mahasiswa
+# Daftar Mahasiswa
 
 File ini dibuat untuk memeriksa tingkat pemahaman mahasiswa tentang Git pada mata kuliah pemrograman berbasis framework.
 
@@ -29,3 +29,11 @@ Pesan: Belajarlah sesuatu yang membuat kamu bosan.
 Note: 
 - Berikan satu baris kosong setelah setiap entry-nya
 - Jika anda tidak mengikuti instruksi, pull request tidak akan diapprove
+
+## Daftar
+
+Entry: 1
+Github: 
+Nama: 
+Website: 
+Pesan: 
