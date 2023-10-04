@@ -33,7 +33,7 @@ Note:
 ## Daftar
 
 Entry: 1
-Github: 
-Nama: 
+Github: eyarly 
+Nama: eyarly
 Website: 
-Pesan: 
+Pesan: tetap menyerah dan jangan semangat
