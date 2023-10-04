@@ -33,7 +33,7 @@ Note:
 ## Daftar
 
 Entry: 1
-Github: 
-Nama: 
-Website: 
-Pesan: 
+Github: VeneziaNess
+Nama: Venezia
+Website: Https://github.com/VeneziaNess
+Pesan: *sighh
