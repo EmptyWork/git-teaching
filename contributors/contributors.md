@@ -32,8 +32,8 @@ Note:
 
 ## Daftar
 
-Entry: 1
-Github: 
-Nama: 
-Website: 
-Pesan: 
+Entry: 10
+Github: lauxieouxe21
+Nama: Firsty
+Website: https://github.com/lauxieouxe21
+Pesan: Sawadikha...
