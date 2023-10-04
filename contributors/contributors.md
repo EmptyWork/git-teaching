@@ -33,7 +33,7 @@ Note:
 ## Daftar
 
 Entry: 1
-Github: 
-Nama: 
-Website: 
-Pesan: 
+Github: Guncess
+Nama: Agung Kesaulya
+Website:- 
+Pesan: -
