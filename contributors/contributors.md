@@ -33,7 +33,7 @@ Note:
 ## Daftar
 
 Entry: 1
-Github: 
-Nama: 
-Website: 
-Pesan: 
+Github: Aldowen19
+Nama: Aldo Leinussa
+Website: -
+Pesan: -
