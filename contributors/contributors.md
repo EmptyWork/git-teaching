@@ -33,7 +33,7 @@ Note:
 ## Daftar
 
 Entry: 1
-Github: 
-Nama: 
+Github: emptywork
+Nama: Haniel1
 Website: 
 Pesan: 
