@@ -32,8 +32,14 @@ Note:
 
 ## Daftar
 
-Entry: 10
+Entry: 1
 Github: lauxieouxe21
 Nama: Firsty
 Website: https://github.com/lauxieouxe21
 Pesan: Sawadikha...
+
+Entry: 2
+Github: Beatttrrxx
+Nama: Beatttrrxx
+Website: - 
+Pesan: -
