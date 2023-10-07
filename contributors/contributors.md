@@ -33,7 +33,7 @@ Note:
 ## Daftar
 
 Entry: 10
-Github: lauxieouxe21
-Nama: Firsty
-Website: https://github.com/lauxieouxe21
-Pesan: Sawadikha...
+Github: Jhohandrisapasuru
+Nama: Jhohandri
+Website:-
+Pesan: Naga hitam
