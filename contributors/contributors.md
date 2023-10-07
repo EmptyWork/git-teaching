@@ -32,8 +32,8 @@ Note:
 
 ## Daftar
 
-Entry: 10
-Github: lauxieouxe21
-Nama: Firsty
-Website: https://github.com/lauxieouxe21
+Entry: -
+Github: kevinRuban21
+Nama: Kevin Ruban
+Website: https://github.com/kevinRuban21
 Pesan: Sawadikha...
