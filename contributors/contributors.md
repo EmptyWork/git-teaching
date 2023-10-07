@@ -43,3 +43,9 @@ Github: Beatttrrxx
 Nama: Beatttrrxx
 Website: - 
 Pesan: -
+
+Entry: 3
+Github: eyarly 
+Nama: eyarly
+Website: 
+Pesan: tetap menyerah dan jangan semangat
