@@ -33,7 +33,7 @@ Note:
 ## Daftar
 
 Entry: 10
-Github: lauxieouxe21
-Nama: Firsty
-Website: https://github.com/lauxieouxe21
-Pesan: Sawadikha...
+Github: heavenfylipo
+Nama: Fylipo
+Website: https://github.com/heavenfylipo
+Pesan: barudak well..
