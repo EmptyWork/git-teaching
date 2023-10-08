@@ -33,7 +33,25 @@ Note:
 ## Daftar
 
 Entry: 1
-Github:emptywork 
-Nama: ErvinaHaulussy
+Github: lauxieouxe21
+Nama: Firsty
+Website: https://github.com/lauxieouxe21
+Pesan: Sawadikha...
+
+Entry: 2
+Github: Beatttrrxx
+Nama: Beatttrrxx
+Website: - 
+Pesan: -
+
+Entry: 3
+Github: eyarly 
+Nama: eyarly
 Website: 
-Pesan: 
+Pesan: tetap menyerah dan jangan semangat
+
+Entry: 4
+Github: ErvinaHaulussy 
+Nama: ErvinaHaulussy
+Website: - 
+Pesan: -
