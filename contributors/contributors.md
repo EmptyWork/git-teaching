@@ -53,7 +53,8 @@ Pesan: tetap menyerah dan jangan semangat
 Entry: 4
 Github: ErvinaHaulussy 
 Nama: ErvinaHaulussy
-Website: - 
+Website: -
+Pesan: -
 
 Entry: 5
 Github: Aldowen19
