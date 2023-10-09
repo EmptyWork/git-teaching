@@ -61,3 +61,9 @@ Github: Aldowen19
 Nama: Aldo Leinussa
 Website: -
 Pesan: -
+
+Entry: 6
+Github: Guncess
+Nama: Agung Kesaulya
+Website:- 
+Pesan: -
