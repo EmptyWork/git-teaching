@@ -47,7 +47,7 @@ Pesan: -
 Entry: 3
 Github: eyarly 
 Nama: eyarly
-Website: 
+Website: -
 Pesan: tetap menyerah dan jangan semangat
 
 Entry: 4
@@ -65,5 +65,11 @@ Pesan: -
 Entry: 6
 Github: Guncess
 Nama: Agung Kesaulya
-Website:- 
+Website: - 
+Pesan: -
+
+Entry: 7
+Github: Dkzia26
+Nama: Dierdhekezia
+Website: - 
 Pesan: -
