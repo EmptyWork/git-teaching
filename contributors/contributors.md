@@ -73,3 +73,10 @@ Github: Dkzia26
 Nama: Dierdhekezia
 Website: - 
 Pesan: -
+
+Entry: 8
+Github: VeneziaNess
+Nama: Venezia
+Website: Https://github.com/VeneziaNess
+Pesan: *sighh
+
