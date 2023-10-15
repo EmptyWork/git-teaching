@@ -33,7 +33,50 @@ Note:
 ## Daftar
 
 Entry: 1
+Github: lauxieouxe21
+Nama: Firsty
+Website: https://github.com/lauxieouxe21
+Pesan: Sawadikha...
+
+Entry: 2
+Github: Beatttrrxx
+Nama: Beatttrrxx
+Website: - 
+Pesan: -
+
+Entry: 3
+Github: eyarly 
+Nama: eyarly
+Website: -
+Pesan: tetap menyerah dan jangan semangat
+
+Entry: 4
+Github: ErvinaHaulussy 
+Nama: ErvinaHaulussy
+Website: -
+Pesan: -
+
+Entry: 5
+Github: Aldowen19
+Nama: Aldo Leinussa
+Website: -
+Pesan: -
+
+Entry: 6
+Github: Guncess
+Nama: Agung Kesaulya
+Website: - 
+Pesan: -
+
+Entry: 7
+Github: Dkzia26
+Nama: Dierdhekezia
+Website: - 
+Pesan: -
+
+Entry: 8
 Github: VeneziaNess
 Nama: Venezia
 Website: Https://github.com/VeneziaNess
 Pesan: *sighh
+
