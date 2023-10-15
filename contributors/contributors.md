@@ -80,3 +80,8 @@ Nama: Venezia
 Website: Https://github.com/VeneziaNess
 Pesan: *sighh
 
+Entry: 9
+Github: yaneke
+Nama: yaneke cantik banget
+Website: -
+Pesan: -
