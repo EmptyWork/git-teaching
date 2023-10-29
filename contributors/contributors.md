@@ -20,9 +20,9 @@ Pesan: [Opsional]
 
 Contoh:
 ```
-Entry: -
-Github: kevinRuban21
-Nama: Kevin Ruban
+Entry: 1
+Github: EmptyWork
+Nama: Glend
 Website: https://emptywork.my.id
 Pesan: Belajarlah sesuatu yang membuat kamu bosan.
 ```
