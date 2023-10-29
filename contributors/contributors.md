@@ -21,7 +21,7 @@ Pesan: [Opsional]
 Contoh:
 ```
 Entry: 2000
-Github: emptyWork
+Github: emptywork
 Nama: Glend
 Website: https://emptywork.my.id
 Pesan: Belajarlah sesuatu yang membuat kamu bosan.
