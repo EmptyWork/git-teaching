@@ -109,3 +109,9 @@ Github: jobeyyyy
 Nama: jobeyyyy
 Website: -
 Pesan: -
+
+Entry: 14
+Github: kevinRuban21
+Nama: Kevin Ruban
+Website: https://github.com/kevinRuban21
+Pesan: -
